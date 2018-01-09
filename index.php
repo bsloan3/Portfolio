@@ -224,7 +224,7 @@
 							<header>
 								<h3><a href="https://www.youtube.com/watch?v=hxgL6yceYAg" target="_blank">Morning In America (The Struggle To Prioritize) </a></h3>
 							</header>
-							<p>It's an average Saturday for two college students. Both have the same exam on Monday. One decides to hit the books hard. The other decides to party with friends. Both second guess how they have chosen to spend their day, with each pondering the other's path.</p>
+							<p>It's an average Saturday for two college students. Both have the same exam on Monday. One decides to hit the books hard. The other decides to party with friends. Watch as they each second guess how they have chosen to spend their day.</p>
 						</article>
 						<article>
 							<a href="https://www.youtube.com/watch?v=GPi8dSXBbZU" target="_blank" class="image featured"><img src="images/drunkcomicsspiderman.jpg" alt="" /></a>
@@ -238,7 +238,7 @@
 							<header>
 								<h3><a href="https://www.youtube.com/watch?v=cRe-xKb3UPg" target="_blank">Screen Junkies Interview at Wizard World Philadelphia</a></h3>
 							</header>
-							<p>This is my interview of the creators of one of the most popular online series (Honest Trailers.</p>
+							<p>This is my interview of the creators of one of the most popular online series (Honest Trailers).</p>
 						</article>
 						<article>
 							<a href="https://www.youtube.com/watch?v=ZCrdNI2SS24" target="_blank" class="image featured"><img src="images/marsintern.jpg" alt="" /></a>
