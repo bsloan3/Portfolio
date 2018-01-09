@@ -2446,6 +2446,7 @@
 /* Carousel */
 
 	.carousel {
+
 		position: relative;
 		overflow: hidden;
 		padding: 2em 0 2em 0;
@@ -2536,6 +2537,8 @@
 			padding: 0 1em 3em 1em;
 			margin: 0 2em 0 0;
 			white-space: normal;
+			height: 60VH;
+			overflow: scroll;
 			opacity: 1.0;
 			-moz-transition: opacity 0.75s ease-in-out;
 			-webkit-transition: opacity 0.75s ease-in-out;
@@ -2681,9 +2684,9 @@
 
 /* Mobile */
 
-	#navPanel, #titleBar {
+/*	#navPanel, #titleBar {
 		display: none;
-	}
+	}*/
 
 	@media screen and (max-width: 736px) {
 
@@ -2810,7 +2813,7 @@
 				padding-bottom: 1px;
 			}
 
-			#navButton {
+/*			#navButton {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
@@ -2826,9 +2829,9 @@
 				top: 0;
 				width: 100%;
 				z-index: 10001;
-			}
+			}*/
 
-				#navButton .toggle {
+				/*#navButton .toggle {
 					position: absolute;
 					left: 0;
 					top: 0;
@@ -2860,9 +2863,9 @@
 						background: rgba(132, 128, 136, 0.75);
 						border-top: 0;
 						border-radius: 0 0 0.35em 0.35em;
-					}
+					}*/
 
-			#navPanel {
+/*			#navPanel {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
@@ -2947,9 +2950,9 @@
 
 				#navPanel .depth-0 {
 					color: #fff;
-				}
+				}*/
 
-			body.navPanel-visible #page-wrapper {
+/*			body.navPanel-visible #page-wrapper {
 				-moz-transform: translateY(50vh);
 				-webkit-transform: translateY(50vh);
 				-ms-transform: translateY(50vh);
@@ -2968,7 +2971,7 @@
 				-webkit-transform: translateY(0);
 				-ms-transform: translateY(0);
 				transform: translateY(0);
-			}
+			}*/
 
 		/* Wrapper */
 

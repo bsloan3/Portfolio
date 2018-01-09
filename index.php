@@ -14,7 +14,7 @@
 		  <li><a href="#design">UX/UI Design</a></li>
 		  <li><a href="#marketing">Marketing</a></li>
 		  <li><a href="#film">Film</a></li>
-		  <li><a href="https://comicsverse.com/author/fnsupercritic/" target="_blank">ComicsVerse Profile</a></li>
+		  <li><a href="images/Bradley_Sloan_Resume.pdf" download>Download My Resume (PDF)</a></li>
 		  <li><a href="#footer">Contact</a></li>
 		</ul>
 	</nav>
@@ -153,6 +153,7 @@
 									<h3>ComicsVerse Website</a></h3>
 								</header>
 								<p>I am a co-designer/developer of the ComicsVerse website as well as some of their pop-culture related content.</p>
+								<p><a href="https://comicsverse.com/author/fnsupercritic/" target="_blank">ComicsVerse Profile</a></p>
 							</article>
 						</div>
 					</section>
@@ -226,6 +227,13 @@
 							<p>It's an average Saturday for two college students. Both have the same exam on Monday. One decides to hit the books hard. The other decides to party with friends. Both second guess how they have chosen to spend their day, with each pondering the other's path.</p>
 						</article>
 						<article>
+							<a href="https://www.youtube.com/watch?v=GPi8dSXBbZU" target="_blank" class="image featured"><img src="images/drunkcomicsspiderman.jpg" alt="" /></a>
+							<header>
+								<h3><a href="https://www.youtube.com/watch?v=GPi8dSXBbZU" target="_blank">Drunk Comic Book Origins: Spiderman</a></h3>
+							</header>
+							<p>This ComicsVerse original series features everyday comic book fans getting drunk and attempting to retell the stories of their favorite heroes. Words start to slur and memories get hazy as alcohol levels rise.</p>
+						</article>
+						<article>
 							<a href="https://www.youtube.com/watch?v=cRe-xKb3UPg" target="_blank" class="image featured"><img src="images/sjint.jpg" alt="" /></a>
 							<header>
 								<h3><a href="https://www.youtube.com/watch?v=cRe-xKb3UPg" target="_blank">Screen Junkies Interview at Wizard World Philadelphia</a></h3>
@@ -250,6 +258,7 @@
 								<!-- Socials -->
 									<section class="contact">
 										<header>
+											<h3><a href="#about">BACK TO HOMEPAGE</a></h3>
 											<h3>Email: bsloan@umich.edu</h3>
 											<h3>Phone: 248-914-1802</h3>
 											<br>
