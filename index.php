@@ -16,7 +16,7 @@
 							<header>
 								<h1><a href="index.html" id="logo">Bradley Sloan</a></h1>
 								<hr/>
-								<p>Web Design and Digital Marketing</p>
+								<p>PROJECT MANAGER & WEB DEVELOPER</p>
 							</header>
 							<footer>
 								<a href="#banner" class="button circled scrolly">Go!</a>
@@ -28,8 +28,63 @@
 					<header>
 						<h2>About</h2>
 						<p>
-							I am a recent graduate from the School of Information at the University of Michigan, focusing on web development, user interface design, and digital marketing. My passion is in web design (I have a nack for wireframing) and digital marketing (I love any chance to use my creativity). I am proficient in HTML, CSS, and Python. I am a graphic designer (InVision, Sketch, Adobe Illustrator, Photoshop and InDesign) and I also make short films on Final Cut Pro.
+							As a recent School of Information graduate from University of Michigan, my expertise is in web development, user interface design, and digital marketing. Following graduation, I earned a Certificate in Web Development from Dev Bootcamp in NYC.
+						</p>
+						<h3>PROGRAMING SKILLS</h3>
+						<ul>
+							<li>Ruby on Rails</li>
+							<li>HTML5 & CSS</li>
+							<li>SQL & ActiveRecord</li>
+							<li>Object Oriented Javascript
+							(AJAX, JQuery, React)</li>
+							<li>Git & Source Control</li>
+							<li>Rspec</li>
+							<li>Heroku & Agile</li>
+							<li>Development</li>
+							<li>Sublime Text/Atom</li>
+						</ul>
+						<h3>DESIGN SKILLS/OTHER</h3>
+						<ul>
+							<li>Adobe Photoshop, Adobe Illustrator, Adobe InDesign</li>
+							<li>Final Cut Pro</li>
+							<li>InVision</li>
+						</ul>
 					</header>
+				</section>
+
+				<!-- Banner -->
+				<section id="banner">
+					<header>
+						<h2>Projects</h2>
+						<p>
+							Project Manager/Web Development Experience
+						</p>
+					</header>
+				</section>
+
+			<!-- Carousel -->
+				<section class="carousel">
+					<div class="reel">
+						<article>
+							<a href="#" target="_blank" class="image featured"><img src="images/LTPdesktop.jpg" alt="" /></a>
+							<header>
+								<h3><a href="#" target="_blank">MediaMine</a></h3>
+							</header>
+							<p>A personalized one-stop-shop for media consumption. Podcasts, Television, Movies, Sports, News and Music all compiled onto one dashboard with a calendar to track media events.
+							</p>
+							<a href="github.com/bsloan3/MediaMine" target="_blank">Rails Back-End</a>
+							<a href="github.com/bsloan3/MediaMine-React-FrontEnd" target="_blank">React Front-End</a>
+						</article>
+						<article>
+							<a href="#" target="_blank" class="image featured"><img src="images/LTPmobile.jpg" alt="" /></a>
+							<header>
+								<h3><a href="#" target="_blank">MovieMatch</a></h3>
+							</header>
+							<p>Users can get recommendations, review/score movies for their profile and see their friends reviews and recommendations. Utilizes an algorithm to recommend movies (pulls data from TMDB API).</p>
+							<a href="github.com/bsloan3/movie-match" target="_blank">Source Code</a>
+							<a href="movie-match-sloan.herokuapp.com" target="_blank">Site Link</a>
+						</article>
+					</div>
 				</section>
 
 			<!-- Banner -->
