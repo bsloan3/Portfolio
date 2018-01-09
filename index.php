@@ -15,7 +15,6 @@
 						<div class="inner">
 							<header>
 								<h1><a href="index.html" id="logo">Bradley Sloan</a></h1>
-								<hr/>
 								<p>Project Manager & Web Developer</p>
 							</header>
 							<footer>
@@ -50,11 +49,13 @@
 							<li>Final Cut Pro</li>
 							<li>InVision</li>
 						</ul>
-						<a href="#projects" class="button circled scrolly">Check Out My Projects</a>
+						<footer>
+							<a href="projects" class="button circled scrolly">Check Out My Projects</a>
+						</footer>
 				</section>
 
 				<!-- Banner -->
-				<section id="banner projects">
+				<section id="banner" class="projects">
 					<header>
 						<h2>Projects</h2>
 						<p>
