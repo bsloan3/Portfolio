@@ -16,7 +16,7 @@
 							<header>
 								<h1><a href="index.html" id="logo">Bradley Sloan</a></h1>
 								<hr/>
-								<p>PROJECT MANAGER & WEB DEVELOPER</p>
+								<p>Project Manager & Web Developer</p>
 							</header>
 							<footer>
 								<a href="#banner" class="button circled scrolly">Go!</a>
@@ -30,7 +30,8 @@
 						<p>
 							As a recent School of Information graduate from University of Michigan, my expertise is in web development, user interface design, and digital marketing. Following graduation, I earned a Certificate in Web Development from Dev Bootcamp in NYC.
 						</p>
-						<h3>PROGRAMING SKILLS</h3>
+					</header>
+					<h3>PROGRAMING SKILLS</h3>
 						<ul>
 							<li>Ruby on Rails</li>
 							<li>HTML5 & CSS</li>
@@ -49,11 +50,11 @@
 							<li>Final Cut Pro</li>
 							<li>InVision</li>
 						</ul>
-					</header>
+						<a href="#projects" class="button circled scrolly">Check Out My Projects</a>
 				</section>
 
 				<!-- Banner -->
-				<section id="banner">
+				<section id="banner projects">
 					<header>
 						<h2>Projects</h2>
 						<p>
