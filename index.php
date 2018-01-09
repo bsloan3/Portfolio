@@ -164,7 +164,7 @@
 						<header>
 							<h2>Marketing</h2>
 							<p>
-								As the Digital Intern at The Mars Agency for two summers, I worked on many marketing campaigns, lending my digital expertise to the agency's multimillion dollar clients such as Walmart, Budweiser, T-Mobile, Chobani & Keurig.
+								As the Digital Intern at The Mars Agency, I worked on many marketing campaigns, lending my digital expertise to the agency's multimillion dollar clients such as Walmart, Budweiser, T-Mobile, Chobani & Keurig.
 							</p>
 						</header>
 					</section>
