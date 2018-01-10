@@ -83,9 +83,9 @@
 					<section class="carousel">
 						<div class="reel">
 							<article>
-								<img src="images/mediamine.jpg" alt="" />
+								<a href="javascript:void(0);" class="image featured"><img src="images/mediamine.jpg" alt="" /></a>
 								<header>
-									<h3>MediaMine</h3>
+									<h3><a href="javascript:void(0);">MediaMine</a></h3>
 								</header>
 								<p>A personalized one-stop-shop for media consumption. Podcasts, Television, Movies, Sports, News and Music all compiled onto one dashboard with a calendar to track media events.
 								</p>
