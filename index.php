@@ -93,7 +93,7 @@
 								<h4><a href="github.com/bsloan3/MediaMine-React-FrontEnd" target="_blank">React Front-End</a></h4>
 							</article>
 							<article>
-								<a href="#" target="_blank" class="image featured"><img src="images/moviematch.jpg" alt="" /></a>
+								<a href="https://movie-match-sloan.herokuapp.com/" target="_blank" class="image featured"><img src="images/moviematch.jpg" alt="" /></a>
 								<header>
 									<h3><a href="https://movie-match-sloan.herokuapp.com/" target="_blank">MovieMatch</a></h3>
 								</header>
