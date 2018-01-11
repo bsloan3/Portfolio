@@ -52,6 +52,7 @@
 								<li>SQL & ActiveRecord</li>
 								<li>Object Oriented Javascript
 								(AJAX, JQuery, React)</li>
+								<li>Bootstrap & AngularJS</li>
 								<li>Git & Source Control</li>
 								<li>Rspec</li>
 								<li>Heroku & Agile Development</li>
