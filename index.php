@@ -45,7 +45,7 @@
 							<p style="text-align: center;">
 								As a recent School of Information graduate from University of Michigan, my expertise is in web development, user interface design, and digital marketing. Following graduation, I earned a Certificate in Web Development from Dev Bootcamp in NYC.
 							</p>
-							<h3>PROGRAMING SKILLS</h3>
+							<h3>PROGRAMMING SKILLS</h3>
 							<ul>
 								<li>Ruby on Rails</li>
 								<li>HTML5 & CSS</li>
