@@ -26,7 +26,7 @@
 					<!-- Inner -->
 						<div class="inner">
 							<header>
-								<h1><a href="index.html" id="logo">Bradley Sloan</a></h1>
+								<h1>Bradley Sloan</h1>
 								<br>
 								<p>Project Manager & Web Developer</p>
 							</header>
