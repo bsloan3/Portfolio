@@ -260,7 +260,7 @@
 									<section class="contact">
 										<header>
 											<h3><a href="#about">BACK TO HOMEPAGE</a></h3>
-											<h3>Email: bsloan@umich.edu</h3>
+											<h3>Email: bradsloan16@gmail.com</h3>
 											<h3>Phone: 248-914-1802</h3>
 											<h3>GitHub: https://github.com/bsloan3</h3>
 											<br>
