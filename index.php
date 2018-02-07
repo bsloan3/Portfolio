@@ -96,7 +96,7 @@
 							<article>
 								<a href="https://movie-match-sloan.herokuapp.com/" target="_blank" class="image featured"><img src="images/moviematch.jpg" alt="" /></a>
 								<header>
-									<h3><a href="https://movie-match-sloan.herokuapp.com/" target="_blank">MovieMatch</a></h3>
+									<h3><a href="http://movie-match-sloan.herokuapp.com/" target="_blank">MovieMatch</a></h3>
 								</header>
 								<p>Users can get recommendations, review/score movies for their profile and see their friends reviews and recommendations. Utilizes an algorithm to recommend movies (pulls data from TMDB API).</p>
 								<h4><a href="github.com/bsloan3/movie-match" target="_blank">Source Code</a></h4>
