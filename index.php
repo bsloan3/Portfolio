@@ -90,17 +90,17 @@
 								</header>
 								<p>A personalized one-stop-shop for media consumption. Podcasts, Television, Movies, Sports, News and Music all compiled onto one dashboard with a calendar to track media events.
 								</p>
-								<h4><a href="github.com/bsloan3/MediaMine" target="_blank">Rails Back-End</a></h4>
-								<h4><a href="github.com/bsloan3/MediaMine-React-FrontEnd" target="_blank">React Front-End</a></h4>
+								<h4><a href="https://github.com/bsloan3/MediaMine" target="_blank">Rails Back-End</a></h4>
+								<h4><a href="https://github.com/bsloan3/MediaMine-React-FrontEnd" target="_blank">React Front-End</a></h4>
 							</article>
 							<article>
 								<a href="https://movie-match-sloan.herokuapp.com/" target="_blank" class="image featured"><img src="images/moviematch.jpg" alt="" /></a>
 								<header>
-									<h3><a href="http://movie-match-sloan.herokuapp.com/" target="_blank">MovieMatch</a></h3>
+									<h3><a href=https://movie-match-sloan.herokuapp.com/" target="_blank">MovieMatch</a></h3>
 								</header>
 								<p>Users can get recommendations, review/score movies for their profile and see their friends reviews and recommendations. Utilizes an algorithm to recommend movies (pulls data from TMDB API).</p>
-								<h4><a href="github.com/bsloan3/movie-match" target="_blank">Source Code</a></h4>
-								<h4><a href="movie-match-sloan.herokuapp.com" target="_blank">Site Link</a></h4>
+								<h4><a href="https://github.com/bsloan3/movie-match" target="_blank">Source Code</a></h4>
+								<h4><a href="https://movie-match-sloan.herokuapp.com" target="_blank">Site Link</a></h4>
 							</article>
 						</div>
 					</section>
