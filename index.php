@@ -61,6 +61,7 @@
 							<h3>DESIGN SKILLS/OTHER</h3>
 							<ul>
 								<li>Adobe Photoshop, Adobe Illustrator, Adobe InDesign</li>
+								<li>Sketch</li>
 								<li>Final Cut Pro</li>
 								<li>InVision</li>
 							</ul>
