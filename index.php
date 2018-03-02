@@ -85,14 +85,14 @@
 					<section class="carousel">
 						<div class="reel">
 							<article>
-								<a href="https://hkwglaw.com" target="_blank" class="image featured"><img src="images/hkwg.jpg" alt="" /></a>
+								<a href="https://hkwglaw.com/" target="_blank" class="image featured"><img src="images/hkwg.jpg" alt="" /></a>
 								<header>
-									<h3><a href="https://hkwglaw.com" target="_blank">Hurwitz & Gantz Law Firm</a></h3>
+									<h3><a href="https://hkwglaw.com/" target="_blank">Hurwitz & Gantz Law Firm</a></h3>
 								</header>
 								<p>Hurwitz & Gantz, a Michigan based law firm, hired me to remake their website. For this project, I utilized a React front-end for a quick and clean interface. I also added an email feature so that each lawyer may be contacted directly from the website.
 								</p>
-								<h4><a href="https://hkwglaw.com" target="_blank">Site Link</a></h4>
-								<h4><a href="https://github.com/bsloan3/HurwitzAndGantz" target="_blank">Source Code</a></h4>
+								<h4><a href="https://hkwglaw.com/" target="_blank">Site Link</a></h4>
+								<h4><a href="https://github.com/bsloan3/HurwitzAndGantz/" target="_blank">Source Code</a></h4>
 							</article>
 							<article>
 								<a href="javascript:void(0);" class="image featured"><img src="images/mediamine.jpg" alt="" /></a>
@@ -101,13 +101,13 @@
 								</header>
 								<p>A personalized one-stop-shop for media consumption. Podcasts, Television, Movies, Sports, News and Music all compiled onto one dashboard with a calendar to track media events.
 								</p>
-								<h4><a href="https://github.com/bsloan3/MediaMine" target="_blank">Rails Back-End</a></h4>
-								<h4><a href="https://github.com/bsloan3/MediaMine-React-FrontEnd" target="_blank">React Front-End</a></h4>
+								<h4><a href="https://github.com/bsloan3/MediaMine/" target="_blank">Rails Back-End</a></h4>
+								<h4><a href="https://github.com/bsloan3/MediaMine-React-FrontEnd/" target="_blank">React Front-End</a></h4>
 							</article>
 							<article>
 								<a href="https://movie-match-sloan.herokuapp.com/" target="_blank" class="image featured"><img src="images/moviematch.jpg" alt="" /></a>
 								<header>
-									<h3><a href=https://movie-match-sloan.herokuapp.com/" target="_blank">MovieMatch</a></h3>
+									<h3><a href="https://movie-match-sloan.herokuapp.com/" target="_blank">MovieMatch</a></h3>
 								</header>
 								<p>Users can get recommendations, review/score movies for their profile and see their friends reviews and recommendations. Utilizes an algorithm to recommend movies (pulls data from TMDB API).</p>
 								<h4><a href="https://github.com/bsloan3/movie-match" target="_blank">Source Code</a></h4>
