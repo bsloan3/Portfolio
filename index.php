@@ -85,6 +85,19 @@
 					<section class="carousel">
 						<div class="reel">
 							<article>
+								<a href="https://movie-match-sloan.herokuapp.com/" target="_blank" class="image featured"><img src="images/hkwg.jpg" alt="" /></a>
+								<header>
+									<h3><a href=https://movie-match-sloan.herokuapp.com/" target="_blank">MovieMatch</a></h3>
+								</header>
+								<header>
+									<h3><a href=https://hkwglaw.com" target="_blank">Hurwitz & Gantz Law Firm</a></h3>
+								</header>
+								<p>Hurwitz & Gantz, a Michigan based law firm, hired me to remake their website. For this project, I utilized a React front-end for a quick and clean interface. I also added an email feature so that each lawyer may be contacted directly from the website.
+								</p>
+								<h4><a href="https://hkwglaw.com" target="_blank">Site Link</a></h4>
+								<h4><a href="https://github.com/bsloan3/HurwitzAndGantz" target="_blank">Source Code</a></h4>
+							</article>
+							<article>
 								<a href="javascript:void(0);" class="image featured"><img src="images/mediamine.jpg" alt="" /></a>
 								<header>
 									<h3><a href="javascript:void(0);">MediaMine</a></h3>
