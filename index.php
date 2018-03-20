@@ -145,9 +145,9 @@
 								<p>Parking Permit Website for University of Michigan's Logistics, Transportation & Parking Division (Optimized for Mobile)</p>
 							</article>
 							<article>
-								<a href="https://invis.io/UWAJULCVF/" target="_blank" class="image featured"><img src="images/SJC.jpg" alt="" /></a>
+								<a href="https://invis.io/EHCQ77CM7#/245275541_Home/" target="_blank" class="image featured"><img src="images/SJC.jpg" alt="" /></a>
 								<header>
-									<h3><a href="https://invis.io/UWAJULCVF/" target="_blank">Screen Junkies Connect</a></h3>
+									<h3><a href="https://invis.io/EHCQ77CM7#/245275541_Home/" target="_blank">Screen Junkies Connect</a></h3>
 								</header>
 								<p>Mobile Application Connecting Members of the Screen Junkies Community</p>
 							</article>
