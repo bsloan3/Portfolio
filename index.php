@@ -28,7 +28,7 @@
 							<header>
 								<h1>Bradley Sloan</h1>
 								<br>
-								<p>Project Manager & Web Developer</p>
+								<p>Product Manager & Software Engineer</p>
 							</header>
 							<footer>
 								<a href="#about" class="button circled scrolly">Go!</a>
@@ -43,8 +43,15 @@
 						</header>
 						<div class="about">
 							<p style="text-align: center;">
-								As a recent School of Information graduate from University of Michigan, my expertise is in web development, user interface design, and digital marketing. Following graduation, I earned a Certificate in Web Development from Dev Bootcamp in NYC.
+								 I'm a full stack engineer with a background in UX/UI design and digital marketing.
+								 <br>
+								 This multifaceted expertise has allowed me to successfully manage products, engineers, designers and businesses.
 							</p>
+							<h3>EDUCATION</h3>
+							<ul>
+								<li><strong>University of Michigan</strong> - School of Information</li>
+								<li><strong>Dev Bootcamp NYC</strong> - Full Stack Developer Certificate</li>
+							</ul>
 							<h3>PROGRAMMING SKILLS</h3>
 							<ul>
 								<li>Ruby on Rails</li>
@@ -54,16 +61,19 @@
 								(AJAX, JQuery, React)</li>
 								<li>Bootstrap & AngularJS</li>
 								<li>Git & Source Control</li>
+								<li>Azure DevOps/VSTS</li>
 								<li>Rspec</li>
 								<li>Heroku & Agile Development</li>
-								<li>Sublime Text/Atom</li>
+								<li>Sublime Text/Atom/Coda</li>
 							</ul>
 							<h3>DESIGN SKILLS/OTHER</h3>
 							<ul>
-								<li>Adobe Photoshop, Adobe Illustrator, Adobe InDesign</li>
-								<li>Sketch</li>
-								<li>Final Cut Pro</li>
+								<li>Adobe XD/Sketch</li>
 								<li>InVision</li>
+								<li>Adobe Photoshop, Adobe Illustrator, Adobe InDesign</li>
+								<li>Alexa for Business/AWS</li>
+								<li>Balena Cloud</li>
+								<li>Final Cut Pro</li>
 							</ul>
 						</div>
 					</section>
@@ -76,7 +86,7 @@
 						<header>
 							<h2>Projects</h2>
 							<p>
-								Project Manager/Web Development Experience
+								Product/Project Manager/Web Development Experience
 							</p>
 						</header>
 					</section>
@@ -84,6 +94,14 @@
 				<!-- Carousel -->
 					<section class="carousel">
 						<div class="reel">
+							<article>
+								<a href="https://www.smartaisle.io/" target="_blank" class="image featured"><img src="images/SmartAisleLogo.jpg" alt="" /></a>
+								<header>
+									<h3><a href="https://www.smartaisle.io/" target="_blank">SmartAisle</a></h3>
+								</header>
+								<p>SmartAisle is the World's first voice-powered retail shopping assistant. It is an innovative, new technology platform designed specifically to revolutionize the customer experience in brick & mortar retail stores. Through a combination of an intuitive Voice interface, connected LED lights affixed to the shelf and a powerful artificial intelligence working behind the scenes, it provides expert product recommendations, education and support to shoppers at the all-important point of decision. As Software Product Manager, I am responsible for developing and maintaining SmartAisle's applications, backend systems and APIs. Throughout our development process, I manage a team of engineers, overseeing our build, QA and release phases.
+								<h4><a href="https://www.smartaisle.io/" target="_blank">Site Link</a></h4>
+							</article>
 							<article>
 								<a href="https://hurwitz-and-gantz.herokuapp.com/" target="_blank" class="image featured"><img src="images/hkwg.jpg" alt="" /></a>
 								<header>
@@ -130,6 +148,13 @@
 				<!-- Carousel -->
 					<section class="carousel">
 						<div class="reel">
+							<article>
+								<a href="https://www.smartaisle.io/" target="_blank" class="image featured"><img src="images/SmartAisleWebsite.jpg" alt="" /></a>
+								<header>
+									<h3><a href="https://www.smartaisle.io/" target="_blank">SmartAisle Website</a></h3>
+								</header>
+								<p>SmartAisle's Website for product information, press mentions and contacting.</p>
+							</article>
 							<article>
 								<a href="https://invis.io/MRAX6NM95/" target="_blank" class="image featured"><img src="images/LTPdesktop.jpg" alt="" /></a>
 								<header>
@@ -183,7 +208,13 @@
 				<!-- Carousel -->
 					<section class="carousel">
 						<div class="reel">
-
+							<article>
+								<a class="image featured"><img src="images/SmartAisle_SellSheet_2019.jpg" alt="" /></a>
+								<header>
+									<h3><a href="images/SmartAisle_SellSheet_2019.pdf" download>SmartAisle Sell Sheet (PDF)</a></h3>
+								</header>
+								<p>A 2-page sell sheet for SmartAisle. This page details the what, how and whys of our platform to prospective clients.</p>
+							</article>
 							<article>
 								<a class="image featured"><img src="images/shelfie.jpg" alt="" /></a>
 								<header>
@@ -271,10 +302,9 @@
 										<header>
 											<h3><a href="#about">BACK TO HOMEPAGE</a></h3>
 											<h3>Email: bradsloan16@gmail.com</h3>
-											<h3>Phone: 248-914-1802</h3>
-											<h3>GitHub: https://github.com/bsloan3</h3>
+											<h3><a href="https://github.com/bsloan3" target="_blank">GitHub</a></h3>
 											<br>
-											<h3>Want to see more Brad? Follow my socials.</h3>
+											<h3>Want to see more? Follow my socials.</h3>
 										</header>
 										<ul class="icons">
 											<li><a href="https://twitter.com/Bradley_Sloan" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>

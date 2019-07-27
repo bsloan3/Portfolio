@@ -2624,12 +2624,14 @@
 
 			#banner .about {
 				/*background-color: #f0f4f4;*/
-				padding: 2em;
+				/*padding: 2em;*/
+				padding-left: 2em;
+				padding-right: 2em;
 			}
 
 			#banner :not(.about) {
-				padding-left: 2em;
-				padding-right: 2em;
+				/*padding-left: 2em;*/
+				/*padding-right: 2em;*/
 			}
 
 		/* Footer */
