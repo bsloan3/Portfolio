@@ -3085,6 +3085,7 @@ nav ul {
     position: fixed;
     width: 100%;
     top: 0;
+    z-index: 10;
 }
 
 nav li {
@@ -3114,4 +3115,5 @@ nav li a:hover:not(.active) {
 
 #footer {
 	height: 100VH;
+	padding-top: 20%;
 }

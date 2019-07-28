@@ -10,7 +10,7 @@
 	<nav>
 		<ul>
 		  <li><a href="#about">About</a></li>
-		  <li><a href="#projects">Projects</a></li>
+		  <li><a href="#projects">Products/Projects</a></li>
 		  <li><a href="#design">UX/UI Design</a></li>
 		  <li><a href="#marketing">Marketing</a></li>
 		  <li><a href="#film">Film</a></li>
@@ -45,7 +45,7 @@
 							<p style="text-align: center;">
 								 I'm a full stack engineer with a background in UX/UI design and digital marketing.
 								 <br>
-								 This multifaceted expertise has allowed me to successfully manage products, engineers, designers and businesses.
+								 This multifaceted expertise allows me to successfully manage products, engineers, designers and businesses.
 							</p>
 							<h3>EDUCATION</h3>
 							<ul>
@@ -61,17 +61,16 @@
 								(AJAX, JQuery, React)</li>
 								<li>Bootstrap & AngularJS</li>
 								<li>Git & Source Control</li>
-								<li>Azure DevOps/VSTS</li>
-								<li>Rspec</li>
+								<li>Azure DevOps & VSTS</li>
+								<li>QA/Testing & Rspec</li>
 								<li>Heroku & Agile Development</li>
-								<li>Sublime Text/Atom/Coda</li>
+								<li>Sublime Text, Atom & Coda</li>
 							</ul>
 							<h3>DESIGN SKILLS/OTHER</h3>
 							<ul>
-								<li>Adobe XD/Sketch</li>
-								<li>InVision</li>
-								<li>Adobe Photoshop, Adobe Illustrator, Adobe InDesign</li>
-								<li>Alexa for Business/AWS</li>
+								<li>Adobe XD, Sketch & InVision</li>
+								<li>Adobe Photoshop, Adobe Illustrator & Adobe InDesign</li>
+								<li>Alexa for Business & AWS</li>
 								<li>Balena Cloud</li>
 								<li>Final Cut Pro</li>
 							</ul>
@@ -84,9 +83,9 @@
 					<!-- Banner -->
 					<section id="banner">
 						<header>
-							<h2>Projects</h2>
+							<h2>Products/Projects</h2>
 							<p>
-								Product/Project Manager/Web Development Experience
+								Product/Project Manager & Web/App Development Experience
 							</p>
 						</header>
 					</section>
@@ -200,7 +199,7 @@
 						<header>
 							<h2>Marketing</h2>
 							<p>
-								As the Digital Intern at The Mars Agency, I worked on many marketing campaigns, lending my digital expertise to the agency's multimillion dollar clients such as Walmart, Budweiser, T-Mobile, Chobani & Keurig.
+								Outside of my work as a Software Product Manager at The Mars Agency, I work on many marketing campaigns, lending my digital expertise to the agency's multimillion dollar clients such as Lowe's, Walmart, Budweiser and T-Mobile.
 							</p>
 						</header>
 					</section>
