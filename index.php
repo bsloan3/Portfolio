@@ -61,7 +61,7 @@
 								(AJAX, JQuery, React)</li>
 								<li>Bootstrap & AngularJS</li>
 								<li>Git & Source Control</li>
-								<li>Azure DevOps & VSTS</li>
+								<li>Azure DevOps/VSTS & Balena Cloud</li>
 								<li>QA/Testing & Rspec</li>
 								<li>Heroku & Agile Development</li>
 								<li>Sublime Text, Atom & Coda</li>
@@ -71,13 +71,11 @@
 								<li>Adobe XD, Sketch & InVision</li>
 								<li>Adobe Photoshop, Adobe Illustrator & Adobe InDesign</li>
 								<li>Alexa for Business & AWS</li>
-								<li>Balena Cloud</li>
 								<li>Final Cut Pro</li>
 							</ul>
 						</div>
 					</section>
 				</div>
-
 
 				<div class="single-page" id="projects">
 					<!-- Banner -->

@@ -48,6 +48,18 @@
 		-webkit-text-size-adjust: none;
 	}
 
+/*	.about ul:nth-child(5) {
+		/*list-style-type: circle;*/
+		/*columns: 2;*/
+		/*-webkit-columns: 2;*/
+		/*-moz-columns: 2;*/
+	/*}*/
+
+	.about ul {
+		margin-right: 5%;
+		margin-left: 5%;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -2651,6 +2663,15 @@
 	@media screen and (max-width: 840px) {
 
 		/* Basic */
+			nav ul {
+				display: none !important;
+			}
+
+/*		.about ul:nth-child(5) {
+				columns: 1;
+				-webkit-columns: 1;
+				-moz-columns: 1;
+			}*/
 
 			body, input, textarea, select {
 				font-size: 13pt;
@@ -2687,12 +2708,11 @@
 
 /* Mobile */
 
-/*	#navPanel, #titleBar {
-		display: none;
-	}*/
-
 	@media screen and (max-width: 736px) {
 
+			nav ul {
+				display: none !important;
+			}
 		/* Basic */
 
 			html, body {
