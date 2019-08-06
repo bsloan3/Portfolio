@@ -150,7 +150,7 @@
 								<header>
 									<h3><a href="https://www.smartaisle.io/" target="_blank">SmartAisle Website</a></h3>
 								</header>
-								<p>SmartAisle's Website for product information, press mentions and contacting.</p>
+								<p>SmartAisle's Website for product information, press mentions and contact information</p>
 							</article>
 							<article>
 								<a href="https://invis.io/MRAX6NM95/" target="_blank" class="image featured"><img src="images/LTPdesktop.jpg" alt="" /></a>
